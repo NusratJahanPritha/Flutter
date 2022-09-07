@@ -4,7 +4,7 @@ The data from api like title, description, url etc. are fetched from the api fro
 
 
 ##Layout
-This project is a starting point for a Flutter application.
+
 ![](assets/1.png)
 ![](assets/2.png)
 
